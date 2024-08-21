@@ -25,7 +25,6 @@ Javascript, HTML, CSS...
 📫 E-mail uevetonsp89@gmail.com <br>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ueveton-soares-pereira-99005375/)
 <hr>
-[👉🏻 Clique aqui para acessar o site](https://ueveton.github.io/Tabuada/)
 
 ## Demonstração
 <div>
