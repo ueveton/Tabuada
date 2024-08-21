@@ -87,7 +87,6 @@ h2 {
     margin: 1rem auto;
     padding: 2rem 1rem;
     background: rgb(121, 230, 106);
-    /* background-color: #fff; */
     color: black;
     border-radius: 1rem;
 }
@@ -103,7 +102,6 @@ h2 {
 #multiplication-operations .row {
     display: flex;
     justify-content: center;
-    /* border: 1px solid #ccc; */
     border-bottom: 2px solid #fff;
     padding: 0.5rem;
     width: 150px;
